@@ -133,35 +133,6 @@ projects:
 
 ---
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎫 티키타카 (Tikitaka)</h3>
-      <p align="center"><b>암표 거래 방지 서비스</b></p>
-      <p>대용량 트래픽 환경에서 안정적인 예매 시스템을 구현하는 프로젝트. Kafka 기반 비동기 처리와 Go의 동시성을 활용한 효율적인 서버 구조 설계를 담당.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 나르샤 (Narsha)</h3>
-      <p align="center"><b>B1ND 동아리 협업 프로젝트</b></p>
-      <p>다양한 직군(Web, Android, iOS)과 협업하며 체계적인 API 명세 및 문서화 문화를 정착시킨 프로젝트. 클라이언트 경험을 고려한 서버 설계의 중요성을 체득.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌟 What I Value
 
 > 💭 **"나는 단순한 구현을 넘어, 왜 이렇게 설계해야 하는가를 고민하는 개발자입니다."**
