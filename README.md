@@ -149,7 +149,7 @@ projects:
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📚 나르샤 (Narsha)</h3>
-      <p align="center"><b>B1ND 동아리 협업 프로젝트</b></p>
+      <p align="center"><b>학교 자체 협업 프로젝트</b></p>
       <p>다양한 직군(Web, Android, iOS)과 협업하며 체계적인 API 명세 및 문서화 문화를 정착시킨 프로젝트. 클라이언트 경험을 고려한 서버 설계의 중요성을 체득.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
