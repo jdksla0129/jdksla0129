@@ -27,10 +27,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```yaml
 name: jdksla0129
 role: Backend Developer
@@ -40,27 +36,11 @@ focus:
   - "서버 간 통신과 아키텍처 설계"
   - "대용량 트래픽 처리"
   - "동시성 및 비동기 처리"
-motto: "문제의 본질을 이해하고
-        근본적인 원인을 해결하는 개발자"
+motto: "문제의 본질을 이해하고 근본적인 원인을 해결하는 개발자"
 currently_learning:
   - "Kafka Streams & 실시간 데이터 처리"
   - "Go 언어 기반 고성능 서버 구현"
 ```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2.5" width="100%" />
 
