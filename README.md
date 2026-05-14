@@ -50,7 +50,7 @@ currently_learning:
 
 ### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,go,python,javascript,c,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,go,python,javascript,c,html,css&theme=dark" />
 </a>
 
 ### ⚙️ Frameworks & Libraries
