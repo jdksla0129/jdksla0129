@@ -1,7 +1,5 @@
 <div align="center">
 
-야르한 아침이구먼
-
 <!-- ═══════════════════ TERMINAL HEADER ═══════════════════ -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=120&section=header&text=~/jdksla0129&fontSize=48&fontColor=00FF41&fontAlignY=50&desc=backend-developer@daegu-swmh:~$&descAlignY=75&descSize=16)
 
