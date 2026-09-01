@@ -200,4 +200,8 @@ logout
 Connection to github.com closed.
 ```
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
+
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=80&section=footer)
